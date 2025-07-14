@@ -1,0 +1,33 @@
+# Audio and Signal Processing
+audeer
+audmetric
+audiofile
+audtorch
+soundfile
+librosa
+opensmile
+audiosegment
+pydub
+
+# PyAnnote
+pyannote.audio
+
+# Data Processing and Utilities
+numpy
+pandas
+joblib
+yaml
+tqdm
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning
+torch
+torchaudio
+transformers
+
+# Visualization
+matplotlib
+seaborn
